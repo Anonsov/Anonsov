@@ -34,9 +34,7 @@ My approach is practical: I solve problems, build tools, and continuously expand
 
 ## 📊 GitHub Activity
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anonsov&show_icons=true&theme=dracula" alt="Anonsov's GitHub Stats" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonsov&layout=compact&theme=dracula" alt="Top Languages" /> <br/><br/></p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anonsov&show_icons=true&theme=dracula" alt="Anonsov's GitHub Stats" /> <br/><br/> 
 
 ## 💼 Key Repositories
 
